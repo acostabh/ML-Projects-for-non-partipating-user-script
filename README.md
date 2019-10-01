@@ -23,7 +23,6 @@ Disclaimer: These scripts are provided as sample code and they are NOT official 
   1. open terminal
   2. Navigate to the folder where you saved the scripts
       - E.G: cd ~/Documents/ML-Projects-for-non-partipating-user-script
-  3. Run the script: ./get_exception.sh email@address
-      - where email@address is the email address of the intended user
+  3. Run the script: ./get_exception.sh
   4. Follow the instructions on the prompt
   5. The CSV export file will be created in the same folder as the script. (E.G: cd ~/Documents/ML-Projects-for-non-partipating-user-script/ML_Archived_Projects_[user ID].csv)
