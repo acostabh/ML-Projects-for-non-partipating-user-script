@@ -25,4 +25,6 @@ Disclaimer: These scripts are provided as sample code and they are NOT official 
       - E.G: cd ~/Documents/ML-Projects-for-non-partipating-user-script
   3. Run the script: ./get_exception.sh
   4. Follow the instructions on the prompt
-  5. The CSV export file will be created in the same folder as the script. (E.G: cd ~/Documents/ML-Projects-for-non-partipating-user-script/ML_Archived_Projects_[user ID].csv)
+      - The script will first show you a count of projects and the option to generate a CSV. 
+      - You can terminate the script before committing to export a any data.
+  5. Any CSV export file will be created in the same folder as the script. (E.G: cd ~/Documents/ML-Projects-for-non-partipating-user-script/ML_Archived_Projects_[user ID].csv)
