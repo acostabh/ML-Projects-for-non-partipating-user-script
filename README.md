@@ -26,4 +26,4 @@ Disclaimer: These scripts are provided as sample code and they are NOT official 
   3. Run the script: ./get_exception.sh email@address
       - where email@address is the email address of the intended user
   4. Follow the instructions on the prompt
-  5. The CSV export file will be created in the same folder as the script. (E.G: cd ~/Documents/ML-Projects-for-non-partipating-user-script)
+  5. The CSV export file will be created in the same folder as the script. (E.G: cd ~/Documents/ML-Projects-for-non-partipating-user-script/ML_Archived_Projects_[user ID].csv)
