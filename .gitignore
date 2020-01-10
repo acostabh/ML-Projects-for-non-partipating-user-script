@@ -1,4 +1,6 @@
 token.json
 create_user.sh
+except_f.sh
+except_f.json
 *.csv
 *log.txt
